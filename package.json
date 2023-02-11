@@ -1,0 +1,24 @@
+{
+  "name": "techblog",
+  "version": "1.0.0",
+  "description": "Creating a CMS style tech blog, including features like user log in/verification",
+  "main": "server.js",
+  "scripts": {
+    "test": "N/A",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DylanCas/techBlog.git"
+  },
+  "keywords": [
+    "Blog",
+    "MVC"
+  ],
+  "author": "Dylan Casabona",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DylanCas/techBlog/issues"
+  },
+  "homepage": "https://github.com/DylanCas/techBlog#readme"
+}
